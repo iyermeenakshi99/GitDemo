@@ -11,4 +11,11 @@ public class GitTest1 {
 	public void method2() {
 		System.out.println("This is method 2");
 	}
+	
+	@Test
+	public void method3() {
+		System.out.println("This is method 3");
+	}
+	
+	
 }
