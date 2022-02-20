@@ -1,5 +1,7 @@
 import org.testng.annotations.Test;
 
+//comment
+
 public class GitTest1 {
 
 	@Test
